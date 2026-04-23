@@ -1,0 +1,10 @@
+node_modules/
+.terraform/
+.terraform.lock.hcl
+    .env
+    dist/
+    build/
+    
+  
+  
+  
